@@ -1,10 +1,11 @@
 # client-server-chat-window
 
-**This's a Chat Application developed using socket programming & Tinkter in python.**\
+### This's a Chat Application developed using *Socket programming* & *Tinkter* in python.
+\
 It's features:
-- [x] GUI based Chat application implemented using tinkter library in python
+- [x] GUI based Chat application implemented using **tinkter library** in python
 - [x] Admin role has been provided with kick & ban facility. Kick means one can rejoin after kicking out. But on banning one can't rejoin.
-- [x] Encryption decryption has been implemented from client to server side using Symmetric-key implemented using fernet library in cryptography module in python.
+- [x] Encryption decryption has been implemented from client to server side using **Symmetric-key** implemented using **fernet library in cryptography module** in python.
 - [x] File transfer has been implemented from client to server side but has not been linked to GUI. It's separate for now.
 
 **File structure**
